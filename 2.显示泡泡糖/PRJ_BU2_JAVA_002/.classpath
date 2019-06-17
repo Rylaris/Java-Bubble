@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-3.2.0.RC1.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-3.2.0.RC1.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-support-3.2.0.RC1.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-3.2.0.RC1.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-3.2.0.RC1.jar"/>
+	<classpathentry kind="lib" path="lib/entity.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
